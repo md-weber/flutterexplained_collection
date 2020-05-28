@@ -16,27 +16,22 @@ If you have any questions write us on [Twitter](https://twitter.com/flutter_exp)
 
 
 
-
-
 <a name="tutorials"></a>
 
 ## Tutorials
 
-| Youtube Video Link                                                         | GitHub Repository                                                                             | Additional Relevant Links                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Image Placeholder with BlurHash in Flutter](https://youtu.be/9b0UotwJgas) | [Blurhash Image Placeholder Tutorial](https://github.com/md-weber/blurhash_image_placeholder) | -   Twitter of Robert Felker - https://twitter.com/BlueAquilae - <br/>Flutter BlurHash Package - https://pub.dev/packages/flutter_blurhash<br/>    <br/>-   BlurHash Package - https://pub.dev/packages/blurhash<br/>    <br/>-   BlurHash - https://blurha.sh/ |
-|                                                                            |                                                                                               |                                                                                                                                                                                                                                                                 |
-|                                                                            |                                                                                               |                                                                                                                                                                                                                                                                 |
+| Youtube Video Link                                                         | GitHub Repository                                                                             | Additional Relevant Links                                                                                                                                                                                                                   |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Image Placeholder with BlurHash in Flutter](https://youtu.be/9b0UotwJgas) | [Blurhash Image Placeholder Tutorial](https://github.com/md-weber/blurhash_image_placeholder) | - [Twitter of Robert Felker](https://twitter.com/BlueAquilae) <br/>- [Flutter BlurHash Package](https://pub.dev/packages/flutter_blurhash)<br/>- [BlurHash Package](https://pub.dev/packages/blurhash)<br/>- [BlurHash](https://blurha.sh/) |
 
 <a name="interviews"></a>
 
 ## Interviews
 
-| Participant   | Youtube Video                                                 | Relevant Links                                                                                                                                                                                                                                       |
-| ------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Luke Pighetti | [One on One with Luke Pighetti](https://youtu.be/c0hsMmj5fFs) | -   Lukes YouTube Channel - https://www.youtube.com/channel/UCaZ2cNfzVDi8Ujy0lF7Lc3g   <br/>-   Lukes Twitter - https://twitter.com/luke_pighetti<br/>    <br/>-   Yakka Agency – https://theyakka.com<br/>    <br/>-   Mint – https://mint-lang.com |
-| Groovin Chip  | [One on One with GroovinChip](https://youtu.be/Tz-9QlzTQS4)   | -   Twitter: https://twitter.com/groovinchip<br/>    <br/>-   Youtube: https://www.youtube.com/channel/UCqRA9X1SF1AyCNYkFp7gLTw                                                                                                                      |
-|               |                                                               |                                                                                                                                                                                                                                                      |
+| Participant   | Youtube Video                                                 | Relevant Links                                                                                                                                                                                                                               |
+| ------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Luke Pighetti | [One on One with Luke Pighetti](https://youtu.be/c0hsMmj5fFs) | -   [Lukes YouTube Channel](https://www.youtube.com/channel/UCaZ2cNfzVDi8Ujy0lF7Lc3g) <br/>- [Lukes Twitter](https://twitter.com/luke_pighetti)<br/> -   [Yakka Agency](https://theyakka.com) <br/> - [Mint Language](https://mint-lang.com) |
+| Groovin Chip  | [One on One with GroovinChip](https://youtu.be/Tz-9QlzTQS4)   | - [GroovinChip on Twitter](https://twitter.com/groovinchip)<br/>- [GroovinChips Youtube Channel](https://www.youtube.com/channel/UCqRA9X1SF1AyCNYkFp7gLTw)                                                                                   |
 
 <a name="flutter_pens"></a>
 
