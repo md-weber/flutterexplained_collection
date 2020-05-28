@@ -28,10 +28,10 @@ If you have any questions write us on [Twitter](https://twitter.com/flutter_exp)
 
 ## Interviews
 
-| Participant   | Youtube Video                                                 | Relevant Links                                                                                                                                                                                                                               |
-| ------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Luke Pighetti | [One on One with Luke Pighetti - Flutter Software Engineer at Yakka](https://youtu.be/c0hsMmj5fFs) | -   [Lukes YouTube Channel](https://www.youtube.com/channel/UCaZ2cNfzVDi8Ujy0lF7Lc3g) <br/>- [Lukes Twitter](https://twitter.com/luke_pighetti)<br/> -   [Yakka Agency](https://theyakka.com) <br/> - [Mint Language](https://mint-lang.com) |
-| Groovin Chip  | [One on One with GroovinChip, a Flutter Enthusiast](https://youtu.be/Tz-9QlzTQS4)   | - [GroovinChip on Twitter](https://twitter.com/groovinchip)<br/>- [GroovinChips Youtube Channel](https://www.youtube.com/channel/UCqRA9X1SF1AyCNYkFp7gLTw)                                                                                   |
+| Participant   | Youtube Video                                                 |
+| ------------- | ------------------------------------------------------------- |
+| Luke Pighetti | [One on One with Luke Pighetti](https://youtu.be/c0hsMmj5fFs) |
+| Groovin Chip  | [One on One with GroovinChip](https://youtu.be/Tz-9QlzTQS4)   |
 
 <a name="flutter_pens"></a>
 
@@ -42,7 +42,7 @@ If you have any questions write us on [Twitter](https://twitter.com/flutter_exp)
 | Name                           | Youtube Video                                                               | GitHub                                                                     | CodePen                                                                        |
 | ------------------------------ | --------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | Button Hover Animation         | [Button Hover Animation - FlutterPen](https://youtu.be/Qb080W0covM)         | [flutter_hover_button](https://github.com/mt-tadayon/flutter_hover_button) | [Button Hover Horizontal Animation](https://codepen.io/mt-tadayon/pen/bGVpjzg) |
-| Line Through Effect in Flutter | [Line Through Effect in Flutter - FlutterPen](https://youtu.be/ItlNXTVB6bw) | [line_through_effect](https://github.com/mt-tadayon/line_through_effect)   | [Line Through Effect](https://codepen.io/mt-tadayon/pen/GRproBR)                                     |
+| Line Through Effect in Flutter | [Line Through Effect in Flutter - FlutterPen](https://youtu.be/ItlNXTVB6bw) | [line_through_effect](https://github.com/mt-tadayon/line_through_effect)   | [Line Through Effect](Line Through Effect)                                     |
 
 ## Live Streams
 
