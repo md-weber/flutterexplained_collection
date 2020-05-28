@@ -7,12 +7,14 @@ If you have any questions write us on [Twitter](https://twitter.com/flutter_exp)
 ## Table of Content
 
 1. [Tutorials](#tutorials)
-   
-   1. [Image Placeholder with Blurhash](#blurhash)
 
-2. [Interview](#interviews)
-   
-   1. [Luke Pighetti](#luke)
+2. [Interviews](#interviews)
+
+3. [Live Streams](#live_streams)
+
+4. [Flutter Pens](#flutter_pens)
+
+
 
 
 
@@ -20,61 +22,33 @@ If you have any questions write us on [Twitter](https://twitter.com/flutter_exp)
 
 ## Tutorials
 
-<a name="blurhash"></a>
-
-### Image Placeholder with Blurhash
-
-- YouTube Video: [Image Placeholder with BlurHash in Flutter](https://youtu.be/9b0UotwJgas)
-
-- GitHub Repository: [Blurhash Image Placeholder Tutorial](https://github.com/md-weber/blurhash_image_placeholder)
-
-- Additional Relevant Links:
-  
-  - Twitter of Robert Felker - https://twitter.com/BlueAquilae 
-  
-  - Flutter BlurHash Package - https://pub.dev/packages/flutter_blurhash
-  
-  - BlurHash Package - https://pub.dev/packages/blurhash
-  
-  - BlurHash - https://blurha.sh/
-
-
-
-
+| Youtube Video Link                                                         | GitHub Repository                                                                             | Additional Relevant Links                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Image Placeholder with BlurHash in Flutter](https://youtu.be/9b0UotwJgas) | [Blurhash Image Placeholder Tutorial](https://github.com/md-weber/blurhash_image_placeholder) | -   Twitter of Robert Felker - https://twitter.com/BlueAquilae - <br/>Flutter BlurHash Package - https://pub.dev/packages/flutter_blurhash<br/>    <br/>-   BlurHash Package - https://pub.dev/packages/blurhash<br/>    <br/>-   BlurHash - https://blurha.sh/ |
+|                                                                            |                                                                                               |                                                                                                                                                                                                                                                                 |
+|                                                                            |                                                                                               |                                                                                                                                                                                                                                                                 |
 
 <a name="interviews"></a>
 
 ## Interviews
 
-<a name="luke"></a>
+| Participant   | Youtube Video                                                 | Relevant Links                                                                                                                                                                                                                                       |
+| ------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Luke Pighetti | [One on One with Luke Pighetti](https://youtu.be/c0hsMmj5fFs) | -   Lukes YouTube Channel - https://www.youtube.com/channel/UCaZ2cNfzVDi8Ujy0lF7Lc3g   <br/>-   Lukes Twitter - https://twitter.com/luke_pighetti<br/>    <br/>-   Yakka Agency – https://theyakka.com<br/>    <br/>-   Mint – https://mint-lang.com |
+| Groovin Chip  | [One on One with GroovinChip](https://youtu.be/Tz-9QlzTQS4)   | -   Twitter: https://twitter.com/groovinchip<br/>    <br/>-   Youtube: https://www.youtube.com/channel/UCqRA9X1SF1AyCNYkFp7gLTw                                                                                                                      |
+|               |                                                               |                                                                                                                                                                                                                                                      |
 
-### Luke Pighetti
+<a name="flutter_pens"></a>
 
-- YouTube: https://youtu.be/c0hsMmj5fFs
+## FlutterPens
 
-- Relevant Links:
-  
-  - Lukes YouTube Channel - https://www.youtube.com/channel/UCaZ2cNfzVDi8Ujy0lF7Lc3g
-  
-  - Lukes Twitter - https://twitter.com/luke_pighetti
-  
-  - Yakka Agency – https://theyakka.com
-  
-  - Mint – https://mint-lang.com
+<a name="button_hover_animation"></a>
 
-
-
-
-
-### Groovin Chip
-
-- YouTube: https://youtu.be/Tz-9QlzTQS4
-
-- Relevant Links:
-  
-  - Twitter: https://twitter.com/groovinchip
-  
-  - Youtube: https://www.youtube.com/channel/UCqRA9X1SF1AyCNYkFp7gLTw
+| Name                           | Youtube Video                                                               | GitHub                                                                     | CodePen                                                                        |
+| ------------------------------ | --------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Button Hover Animation         | [Button Hover Animation - FlutterPen](https://youtu.be/Qb080W0covM)         | [flutter_hover_button](https://github.com/mt-tadayon/flutter_hover_button) | [Button Hover Horizontal Animation](https://codepen.io/mt-tadayon/pen/bGVpjzg) |
+| Line Through Effect in Flutter | [Line Through Effect in Flutter - FlutterPen](https://youtu.be/ItlNXTVB6bw) | [line_through_effect](https://github.com/mt-tadayon/line_through_effect)   | [Line Through Effect](Line Through Effect)                                     |
+|                                |                                                                             |                                                                            |                                                                                |
 
 ## Live Streams
 
@@ -82,24 +56,8 @@ If you have any questions write us on [Twitter](https://twitter.com/flutter_exp)
 
 - [Pair Programming with Flutter Recipe App](https://www.youtube.com/playlist?list=PLq83k-ITj6lR4sHrlK_FvpMdwgZyhXdv5)
 
-
-
 ### Solo Programming
 
 - [Solo Programming and "Just Chatting"](https://www.youtube.com/playlist?list=PLq83k-ITj6lRSPYvZVhKjGwuOjZvYQwoi)
-
-
-
-## FlutterPens
-
-### Button Hover Animation
-
-- YouTube: https://youtu.be/Qb080W0covM
-
-- GitHub: https://github.com/mt-tadayon/flutter_hover_button
-
-- CodePen Link: https://codepen.io/mt-tadayon/pen/bGVpjzg
-
-
 
 
