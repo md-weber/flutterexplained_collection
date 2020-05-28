@@ -55,4 +55,10 @@ If you have any questions write us on [Twitter](https://twitter.com/flutter_exp)
 
 - [Solo Programming and "Just Chatting"](https://www.youtube.com/playlist?list=PLq83k-ITj6lRSPYvZVhKjGwuOjZvYQwoi)
 
+<style>
+table {
+    width:100%;
+}
+</style>
+
 
