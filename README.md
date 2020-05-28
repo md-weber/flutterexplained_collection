@@ -43,9 +43,7 @@ If you have any questions write us on [Twitter](https://twitter.com/flutter_exp)
 | ------------------------------ | --------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | Button Hover Animation         | [Button Hover Animation - FlutterPen](https://youtu.be/Qb080W0covM)         | [flutter_hover_button](https://github.com/mt-tadayon/flutter_hover_button) | [Button Hover Horizontal Animation](https://codepen.io/mt-tadayon/pen/bGVpjzg) |
 | Line Through Effect in Flutter | [Line Through Effect in Flutter - FlutterPen](https://youtu.be/ItlNXTVB6bw) | [line_through_effect](https://github.com/mt-tadayon/line_through_effect)   | [Line Through Effect](https://codepen.io/mt-tadayon/pen/GRproBR)                                     |
-|                                |                                                                             |                                                                            |                                                                                |
 
-<a name="live_streams"></a>
 ## Live Streams
 
 ### Pair Programming
